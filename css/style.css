@@ -1,0 +1,43 @@
+#cont-calculator{
+  width: 553px;
+}
+#cont-calculator table{
+  width: 100%;
+}
+.caj-box th{
+  text-align: center;
+  padding: 24px;
+}
+.th-tit{
+  background-color: #d32525;
+  color: #ffffff;
+}
+.th-tit td{
+  padding: 11px !important;
+}
+.caj-head img , .caj-foot img {
+    width: 100%;
+}
+.caj-head img{
+  padding-bottom: 0px;
+}
+.cpay{
+  background-color: yellow;
+}
+.cpay td{
+  padding: 16px;
+  font-weight: 600;
+}
+.cshare{
+  background-color: #d32525;
+  color: #ffffff;
+}
+.cshare td{
+  padding: 16px;
+  font-weight: 600;
+}
+.alert_cal{
+  background-color: #d32525;
+  color: #ffffff;
+  padding: 16px;
+}
